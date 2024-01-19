@@ -9,7 +9,7 @@ Ensure you have Python installed on your system. Open a terminal and run the fol
 ```bash
 pip install mediapipe opencv-python
 ```
-##Run folloing command 
+## Run folloing command 
 ```bash
 python face_detection.py
 ```
