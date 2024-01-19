@@ -1,9 +1,11 @@
-# FYP_Rice_Quality_Classification_Using_Deep_Learning
+# Face Position Checker using Mediapipe and OpenCV
 
-It is an Android Studio application Project.
-#Gradle version is 7.6
-#android studio version 2023.3.0 or 2023.2.9(Dolphin Version)
+This Python script uses Mediapipe and OpenCV to check the position of a person's face in front of a camera. It provides feedback on whether the face is in the right position or needs adjustment based on the position of the nose, lip, and shoulders.
 
+## Installation
 
-# Jupyter Notebook
-python 9/10 version.
+Ensure you have Python installed on your system. Open a terminal and run the following command to install the required packages:
+
+```bash
+pip install mediapipe opencv-python
+```
