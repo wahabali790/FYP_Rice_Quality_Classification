@@ -1,6 +1,6 @@
 # Face Position Checker 
 
-This Python script uses Mediapipe and OpenCV to check the position of a person's face in front of a camera. It provides feedback on whether the face is in the right position or needs adjustment based on the position of the nose, lip, and shoulders.
+This Python file uses Mediapipe and OpenCV to check the position of a person's face in front of a camera. It provides feedback on whether the face is in the right position or needs adjustment based on the position of the nose, lip, and shoulders.
 
 ## Installation
 
